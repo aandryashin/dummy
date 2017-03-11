@@ -1,0 +1,5 @@
+<aspectj>
+    <weaver options="-debug">
+        <include within="com.github.aandryashin.SimpleTest" />
+    </weaver>
+</aspectj>
